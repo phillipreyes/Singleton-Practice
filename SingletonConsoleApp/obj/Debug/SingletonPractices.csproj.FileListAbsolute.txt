@@ -1,0 +1,6 @@
+C:\Users\Reyes\Dropbox\Programming\Programming\Singleton\SingletonConsoleApp\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Reyes\Dropbox\Programming\Programming\Singleton\SingletonConsoleApp\bin\Debug\ConsoleApplication1.exe
+C:\Users\Reyes\Dropbox\Programming\Programming\Singleton\SingletonConsoleApp\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Reyes\Dropbox\Programming\Programming\Singleton\SingletonConsoleApp\obj\Debug\SingletonPractices.csprojResolveAssemblyReference.cache
+C:\Users\Reyes\Dropbox\Programming\Programming\Singleton\SingletonConsoleApp\obj\Debug\ConsoleApplication1.exe
+C:\Users\Reyes\Dropbox\Programming\Programming\Singleton\SingletonConsoleApp\obj\Debug\ConsoleApplication1.pdb
